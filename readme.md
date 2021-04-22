@@ -53,7 +53,7 @@ if your network license is merged from both CCU and NNU, part 2 will help you to
 
 Take note : When you are running the script, kindly change the filename according to your own filename.
 
-MATLAB Script : https://github.com/KevinChngJY/MATLAB_Monitoring_Network_License_Usage/blob/main/Script/Usage_Analysis.mlx
+MATLAB Script : https://github.com/KevinChngJY/MATLAB_Monitoring_Network_License_Usage/blob/main/Script/Usage_Analysis.mlx <br>
 Python Script :
 
 ---

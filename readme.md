@@ -50,3 +50,17 @@ Therefore, you could select the programming as your desired. It might require so
 they are 2 parts : Monitoring the usage with/without option file.
 If your network license is soley CCU or NNU, you are only required to perform part 1. 
 if your network license is merged from both CCU and NNU, part 2 will help you to break the usage file into 2 files : CCU Usage and NNU Usage.
+
+Take note : When you are running the script, kindly change the filename according to your own filename.
+
+MATLAB Script :
+Python Script :
+
+---
+
+## SECTION 3 : Use My WebApplication to perform this tasks
+(Drafting)
+
+---
+
+## SECTION 4 : Seek for help

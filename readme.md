@@ -8,4 +8,8 @@ Besides, you could optimize the usage of license by allocating the NNU license t
 ---
 
 ## SECTION 1 : Get the server log file and option file from license manager
-In your license server machine, open lmtools
+In your license server machine, open lmtools (Consult your server engineer/license administrator if you don't know the location)
+by default, it is located in MATLAB_Installation_rootfolder\MATLAB_version\etc\win64 (Window) or MATLAB_Installation_rootfolder/MATLAB_version/etc/glnxa64 (linux).
+
+<img src="images/image1.png"
+     style="float: left; margin-right: 0px;" />

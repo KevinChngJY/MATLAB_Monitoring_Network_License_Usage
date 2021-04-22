@@ -16,6 +16,7 @@ Below is the output of this github:
 <br>
 <br>  
 
+It has the information of date, staus of license checkout, toolbox and user. It is organized tabulated information to allow you to do further analysis in excel or any other programming language.
 
 ---
 

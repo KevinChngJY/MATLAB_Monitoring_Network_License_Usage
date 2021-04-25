@@ -59,8 +59,11 @@ Python Script : https://github.com/KevinChngJY/MATLAB_Monitoring_Network_License
 ---
 
 ## SECTION 3 : Use My WebApplication to perform this tasks
-(Drafting)
+This app is unable to help you to break down the usage file into NNU (Network Named User) and CCU (Concurrent User) due to the limitation of processing power available in the server. Therefore, if you intend to break down it to CCU and NNU, you have to process the log file yourself using the MATLAB or Python script in this github.
+
+Web Application : https://www.kevinchng.online/techsource_system/network_license_usage_analysis
 
 ---
 
 ## SECTION 4 : Seek for help
+I'm dont guarantee that I'm free to help everyone or reply everyone, however, if i'm free, I'm always happy to help.

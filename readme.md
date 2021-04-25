@@ -1,4 +1,4 @@
-## Monitoring the Network License Usage of MATLAB (Drafting)
+## Monitoring the Network License Usage of MATLAB
 Authors : Kevin Chng (Email Address : kevin.chng@techsource-asia.com)
 
 In MATLAB, there are 2 main types of Network Licenses which are Network Named User License (NNU) and Concurrent User License (CCU). 
